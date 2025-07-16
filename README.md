@@ -4,4 +4,4 @@
 
 This 3D Dice was modeled entirely in Blender.
 
-![3D Dice](Image/3D_Dice.png)
+![3D Dice](Image/Dice.png)
